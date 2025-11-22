@@ -1,5 +1,5 @@
 # Expense Tracker (Python🐍)
-An expense tracker program made in python that saves any expenses into an cvs file.
+A simple expense tracker program made in python that saves any expenses into an cvs file.
 
 Features:
 - Add / View expenses, categories, and costs
