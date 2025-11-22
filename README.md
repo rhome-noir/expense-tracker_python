@@ -6,10 +6,7 @@ Features:
 - Expenses saves in csv automatically
 - Easy lightweight codebase
 
-Future Improvements
-- Build GUI in pyside6
-- Add Accounts
-- Incorporate AI
+
 
 
 
